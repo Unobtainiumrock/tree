@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A(Start) --> B(Disease: 8%);
     A --> C(No Disease: 92%);
@@ -32,3 +33,4 @@ graph TD
     style J fill:#f9f,stroke:#333,stroke-width:2px
     style P1 fill:#f9f,stroke:#333,stroke-width:2px
     style P3 fill:#f9f,stroke:#333,stroke-width:2px
+```
